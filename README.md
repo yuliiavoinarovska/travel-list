@@ -1,12 +1,15 @@
 # Packing List App
+### <a href="https://yuliiavoinarovska.github.io/travel-list/" target="_blank">View Demo</a>  
 
+> This simple React App has been developed within the practical
+ course  <a href="https://www.udemy.com/course/the-ultimate-react-course/" target="_blank">The Ultimate React Course 2024: React, Next.js, Redux & More </a>
+ 
+## Overview
 The Packing List App is a simple web application designed to help users create and manage packing lists for their trips. Whether you're planning a vacation, a business trip, or a weekend getaway, this app ensures you never forget essential items again.
 
-<video width="100%" height="100%" controls>
+## Demo Video
+https://github.com/user-attachments/assets/bfcdb7bd-b4fd-443c-94e7-734f501dfccc
 
-  <source src="src/travel-list.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Features
 
